@@ -5,7 +5,7 @@ I'm Full stack Developer
 ------------------------
 
 * 🌍  I'm based in ThaiLand
-* ✉️  You can contact me at [tnpkng@gmail.com](mailto:tnpkng@gmail.com)
+* ✉️  You can contact me at [tnpkng@gmail.com](gmail:tnpkng@gmail.com)
 * 🧠  I'm learning Server and RestFull Api
 * ⚡  Come on you can do it
 
