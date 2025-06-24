@@ -55,5 +55,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/angular-EC1C24.svg?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
